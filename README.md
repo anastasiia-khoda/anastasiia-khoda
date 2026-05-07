@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hey, I'm Anastasiia 👋
 
-<!--
-**anastasiia-khoda/anastasiia-khoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Modelling graduate from TUKE Košice, Slovakia  
+🐧 Currently learning Linux and figuring out DevOps  
+🚀 Goal: land my first DevOps job by early 2027  
+📍 Based in Slovakia
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I'm learning right now
+- 🐧 Linux administration
+- 🔀 Git & GitHub
+- 🐍 Python basics
+- 🐳 Docker — coming soon!
+
+## 🛠️ Tech Stack
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+
+## 📫 Contact
+✉️ anastasiia.khoda03@gmail.com
+
+---
+⚡ *Building my skills one commit at a time*
